@@ -129,16 +129,21 @@ I tested different places until it worked.
 
 ### Entry 6 - [Optional - Date and Time]
 **What I did**: 
-
+Worked on Feature 3 (Waiting Time).
 **Details**: 
-
+- Added waiting time variables  
+- Calculated waiting time  
+- Linked it with queue  
+- Printed summary
 **Challenges**: 
+I didn’t understand the idea at first.
 
 **Solution**: 
+I focused and tried until it worked.
 
 **Time spent**: 
+5 hours
 
----
 
 ## Summary
 
