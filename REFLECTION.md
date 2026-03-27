@@ -23,9 +23,14 @@ This makes programs run faster.
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+The hardest part was Feature 3 (waiting time).  
+It needed a lot of effort.  
+It required deep understanding.  
+It needed logical thinking.  
+I was confused about when waiting starts.  
+I was confused how to calculate it.  
+I was confused how to connect it with the queue.  
 
----
 
 ## Question 3: How did you overcome the challenges you faced?
 
