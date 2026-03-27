@@ -35,8 +35,13 @@ I was confused how to connect it with the queue.
 ## Question 3: How did you overcome the challenges you faced?
 
 **Your Answer:**
-
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+I kept trying many times.  
+I used YouTube to understand.  
+I used ChatGPT for help.  
+I read the code step by step.  
+I tested the program again and again.  
+I fixed small mistakes.  
+I focused on understanding the idea.  
 
 ---
 
