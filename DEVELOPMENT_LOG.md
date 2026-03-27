@@ -32,16 +32,21 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
+### Entry 1 - [March 22, 2026, 8:30 PM]
 **What I did**: 
-
+Installed GitHub and created an account.
 **Details**: 
+- Created my GitHub account  
+- Downloaded GitHub  
+- Installed it  
+- Logged in  
 
 **Challenges**: 
-
+The internet was slow and installation was difficult.
 **Solution**: 
-
+I used YouTube and followed the steps until it worked.
 **Time spent**: 
+2 hours
 
 ---
 
