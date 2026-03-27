@@ -148,9 +148,10 @@ I focused and tried until it worked.
 ## Summary
 
 **Total time spent on assignment**: [X hours]
-
+15 hours
 **Most challenging part**: 
-
+Feature 3 (waiting time) required a lot of work, deep understanding, and advanced logical thinking.
 **Most interesting learning**: 
-
+Understanding how threads are divided and the way they move in the scheduler.
 **What I would do differently next time**: 
+Start earlier and understand the code step by step from the beginning.
