@@ -83,20 +83,29 @@ P1 is terminated when it finishes execution and its remaining time becomes zero.
 ### Example 1: [Name of application/scenario]
 
 **Description**: 
-[Describe the real-world scenario or application]
+A download manager handles several file downloads at once.  
+Each download works as a separate task.
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+Each download is given a short time to run.  
+The CPU keeps switching between them.  
+This helps all downloads progress together.  
+This is similar to our program where processes run one after another.  
+The scheduler controls them just like in our code.
 
 ### Example 2: [Name of application/scenario]
 
 **Description**: 
-[Describe the real-world scenario or application]
+Games run different tasks like movement, graphics, and network.  
+All these tasks need to run continuously.
 
-**Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+**Why Round-Robin works well here**:
 
----
+Each task gets a small share of CPU time.  
+The system switches between them very fast.  
+This keeps the game running smoothly.  
+This is similar to our simulation where tasks take turns.  
+The scheduler manages them like in the program.
 
 ## Summary
 
