@@ -87,16 +87,24 @@ I searched in the code and followed the comment.
 
 ---
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [March 27, 2026, 6:00 PM]
 **What I did**: 
+Worked on Feature 1 (Priority).
 
 **Details**: 
+- Added priority  
+- Updated constructor  
+- Generated random priority  
+- Printed it  
 
 **Challenges**: 
+I was confused how to pass and print it.
 
 **Solution**: 
+I tried until it worked.
 
 **Time spent**: 
+2 hour
 
 ---
 
