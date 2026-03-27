@@ -58,15 +58,20 @@ This keeps the system fair
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
 1. **New**: [When is P1 in New state?]
+P1 is created as a thread before calling Thread.start().  
 
 2. **Runnable**: [When does P1 become Runnable?]
+P1 becomes runnable after calling Thread.start() and is added to the ready queue.  
 
 3. **Running**: [When is P1 Running?]
+P1 is running when the CPU executes its run() method.
 
 4. **Waiting**: [When/why would P1 be Waiting?]
+P1 goes to waiting when Thread.sleep() is called during execution.  
+The main thread also uses Thread.join() to wait for it to finish.
 
 5. **Terminated**: [When is P1 Terminated?]
-
+P1 is terminated when it finishes execution and its remaining time becomes zero.
 ---
 
 ## Question 4: Real-World Applications
