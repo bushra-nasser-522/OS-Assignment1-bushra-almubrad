@@ -9,7 +9,13 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+Multithreading means running multiple threads at the same time.  
+One process can have many threads.  
+Each thread does part of the work.  
+Threads do not run all at once, they take turns.  
+The scheduler controls the order.  
+The CPU switches between threads very fast.  
+This makes programs run faster.
 
 ---
 
