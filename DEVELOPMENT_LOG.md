@@ -108,16 +108,22 @@ I tried until it worked.
 
 ---
 
-### Entry 5 - [Date and Time]
+### Entry 5 - [March 27, 2026, 9:00 PM]
 **What I did**: 
+Worked on Feature 2 (Context Switch).
 
 **Details**: 
-
+- Added counter  
+- Increased it when thread starts  
+- Printed it
 **Challenges**: 
+I didn’t know where to put it.
 
 **Solution**: 
+I tested different places until it worked.
 
 **Time spent**: 
+2 hours
 
 ---
 
