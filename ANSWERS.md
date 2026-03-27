@@ -24,18 +24,30 @@ We used threads because they are easier for scheduling.
 **Question**: In Round-Robin scheduling, what happens when a process doesn't finish within its time quantum? Explain using an example from your program output.
 
 **Your Answer:**
-
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+Round-Robin scheduling, each process gets a fixed time quantum.  
+If the process does not finish, it is stopped by the CPU.  
+Then it is moved to the end of the ready queue.  
+It waits until it gets another turn to run again.  
+This helps all processes share the CPU fairly
 
 Example from my output:
-```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
-```
+
+P1 yields CPU for context switch
+P1 (Priority: 1) added to ready queue
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
 
----
+ P1 was still not finished after its time quantum.  
+So it was taken off the CPU.  
+Then it was added again to the ready queue.  
+It will get another chance to run later
+
+
+*Why this is important for fairness:*
+All processes get a chance to use the CPU.  
+No process can take all the CPU time.  
+This keeps the system fair
+
 
 ## Question 3: Thread States
 
