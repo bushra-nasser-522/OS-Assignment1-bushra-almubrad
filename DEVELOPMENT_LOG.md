@@ -68,16 +68,22 @@ I used YouTube and ChatGPT.
 
 ---
 
-### Entry 3 - [Date and Time]
+### Entry 3 - [March 22, 2026, 11:30 PM]
 **What I did**: 
+Changed the student ID.
 
 **Details**: 
+- Found the student ID  
+- Replaced it  
+
 
 **Challenges**: 
+I was not sure where to change it.
 
 **Solution**: 
-
+I searched in the code and followed the comment.
 **Time spent**: 
+15 minutes
 
 ---
 
