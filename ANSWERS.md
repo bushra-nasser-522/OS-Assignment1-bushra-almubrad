@@ -110,10 +110,10 @@ The scheduler manages them like in the program.
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. How threads are different from processes
+2. How the ready queue works in scheduling
+3. 3. How a thread moves between states  
 
 **Concepts I need to study more:**
-1. 
-2. 
+1. How to track waiting time in the program
+2. How context switching happens between processes
