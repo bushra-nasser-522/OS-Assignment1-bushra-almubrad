@@ -50,16 +50,21 @@ I used YouTube and followed the steps until it worked.
 
 ---
 
-### Entry 2 - [Date and Time]
+### Entry 2 - [March 22, 2026, 10:30 PM]
 **What I did**: 
+Connected GitHub to my project.
 
 **Details**: 
-
+- Opened my project in VS Code  
+- Connected it to GitHub  
 **Challenges**: 
+The steps were not clear.
 
 **Solution**: 
+I used YouTube and ChatGPT.
 
 **Time spent**: 
+1 hour
 
 ---
 
